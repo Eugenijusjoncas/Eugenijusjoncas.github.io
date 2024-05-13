@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts :: Mano Puslapis</title>
+    <link>http://localhost:1313/posts/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 May 2024 16:18:36 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antras Puslapis</title>
+      <link>http://localhost:1313/posts/antraspuslapis/index.html</link>
+      <pubDate>Mon, 13 May 2024 16:18:36 +0300</pubDate>
+      <guid>http://localhost:1313/posts/antraspuslapis/index.html</guid>
+      <description>Meška Štai matote meškos nuotrauką.&#xA;Prašome saugokites, jos kandžiojasi.</description>
+    </item>
+  </channel>
+</rss>
